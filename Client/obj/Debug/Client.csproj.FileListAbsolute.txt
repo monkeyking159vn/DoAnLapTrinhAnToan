@@ -1,0 +1,19 @@
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\bin\Debug\Client.exe.config
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\bin\Debug\Client.exe
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\bin\Debug\Client.pdb
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\obj\Debug\Client.Form1.resources
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\obj\Debug\Client.exe
+c:\users\khoa\documents\visual studio 2015\Projects\SecureChat\Client\obj\Debug\Client.pdb
+C:\Users\KHOA\documents\visual studio 2015\Projects\SecureChat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\monke\Desktop\SecureChat\Client\bin\Debug\Client.exe.config
+C:\Users\monke\Desktop\SecureChat\Client\bin\Debug\Client.exe
+C:\Users\monke\Desktop\SecureChat\Client\bin\Debug\Client.pdb
+C:\Users\monke\Desktop\SecureChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\monke\Desktop\SecureChat\Client\obj\Debug\Client.Form1.resources
+C:\Users\monke\Desktop\SecureChat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\monke\Desktop\SecureChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\monke\Desktop\SecureChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\monke\Desktop\SecureChat\Client\obj\Debug\Client.exe
+C:\Users\monke\Desktop\SecureChat\Client\obj\Debug\Client.pdb
